@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @neerajspeaks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full stack development, Backend development
+- 🌱 I’m currently learning React, NodeJs, MERN. My area of expertise is Spring, Spring Boot, J2EE.
+- 💞️ I’m looking forward to new freelancing projects.
+- 📫 Contact me on : s.neeraj.akg@gmail.com
+
+- My LinkedIn Id is: https://www.linkedin.com/in/neerajisme/
 
 <!---
 neerajspeaks/neerajspeaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
